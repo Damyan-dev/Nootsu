@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Car
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 72957609201093640, guid: 0d6af0280375ea04ab105cbde11be0d2, type: 3}
+  - {fileID: -1729314033930399041, guid: 0d6af0280375ea04ab105cbde11be0d2, type: 3}
+  - {fileID: -5934991237522537166, guid: 0d6af0280375ea04ab105cbde11be0d2, type: 3}
+  - {fileID: 6292211862720768771, guid: 0d6af0280375ea04ab105cbde11be0d2, type: 3}
+  - {fileID: -7674431650433867002, guid: 0d6af0280375ea04ab105cbde11be0d2, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 6
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
